@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sambamitra/discovery-server.svg?branch=master)](https://travis-ci.org/sambamitra/discovery-server)
+[![Build Status](https://travis-ci.org/sambamitra/discovery-server.svg?branch=main)](https://travis-ci.org/sambamitra/discovery-server)
 # Discovery Server
 This is a Discovery Server project based on Netflix Eureka and Spring Cloud.
 
